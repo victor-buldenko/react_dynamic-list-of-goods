@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,2BACE,gBAAiB","file":"main.dc238f1b.chunk.css","sourcesContent":[".button:not(:last-of-type) {\n  margin-right: 5px;\n}\n"]}
